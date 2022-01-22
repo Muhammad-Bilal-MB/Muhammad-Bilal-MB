@@ -51,7 +51,7 @@ I am living in Attock, Pakistan. Currently pursuing my degree in Bachelors of Co
 
 <br>
 
-<h3> Languages and Tools </h3>
+<h2> Languages and Tools </h2>
 <div class="tools" display="flex">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width=40px height=40px/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width=40px height=40px />
@@ -64,17 +64,17 @@ I am living in Attock, Pakistan. Currently pursuing my degree in Bachelors of Co
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width=40px height=40px/>
 </div>
 <hr>
-                        
-<img src="https://user-images.githubusercontent.com/69968468/150633827-668e5d7c-bff2-49af-a7a3-e3f6748eaf01.gif" width=100% />
+  
+<img src="https://raw.githubusercontent.com/Muhammad-Bilal-MB/Muhammad-Bilal-MB/output/github-contribution-grid-snake.svg" width=100%/>
 
 <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Bilal-MB&show_icons=true&theme=tokyonight&bg_color=1F222E" />
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=Muhammad-Bilal-MB&theme=gotham&fire=C77800&ring=DD910B&background=1F222E" />
 </p>
 
-<img src="https://raw.githubusercontent.com/Muhammad-Bilal-MB/Muhammad-Bilal-MB/output/github-contribution-grid-snake.svg" width=100%/>
 <img src="https://activity-graph.herokuapp.com/graph?username=Muhammad-Bilal-MB&theme=react-dark&bg_color=1F222E" />
+<img src="https://user-images.githubusercontent.com/69968468/150633827-668e5d7c-bff2-49af-a7a3-e3f6748eaf01.gif" width=100% />
 
-
+**Show some love by starring some of the repositories ❤️**
 
 
