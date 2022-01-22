@@ -28,20 +28,52 @@
   </p>
 </div>
 
-Currently pursuing my degree in Bachelors of Computer science at Comsats University Islamabad, Attock Campus. My field of interests are Artificial Intelligence and Machine Learning. Some facts about me and  my career are listed below:
+I am living in Attock, Pakistan. Currently pursuing my degree in Bachelors of Computer science at Comsats University Islamabad, Attock Campus. Interested in Artificial Intelligence and Deep Learning (more specifically). I've been selected as [Google Developer Student Clubs Lead](https://developers.google.com/community/dsc/leads) for the batch of 2021-22. I've also been recognised as **Microsoft Technology Associate (MTA)** in python programming. I am a passionate football lover and I love to play FIFA. 
 
-- ✍🏻 **GDSC Lead** at Google Developer Student Club COMSATS University, Attock Campus.
-- 🔭 I'm currently working on python and in the field of deep learning.
-- 🌱 I’m currently learning Flutter and Kotlin. 
-- ☔ **Microsoft Technology Associate (MTA)** in python programming.  
-- 💬 Ask me about python, AI, SQL, data analysis, deep learning. 
-- 📫 How to reach me: bilalmb1999@gmail.com
-- ⚡ Fun fact: I am football fan and fifa lover, yeah I am one of those who spend money every year on new fifa release. 
-                                                                                                                            
+<img align="right" src="https://user-images.githubusercontent.com/69968468/150634141-7df07d74-0255-45b7-8bb8-3f95feed548e.png" witdh=300px height=300px/>
 
-![image](https://user-images.githubusercontent.com/69968468/119171099-8e89b580-ba7d-11eb-9163-0719b5f38793.png)
-
+- 🎓  A Computer Science student.
+- 🔭  I’m currently working at **Dlision as a Junior AI Developer**.
+- 📈  **GDSC Lead** at Google Developer Student Club COMSATS University, Attock Campus.
+- ⚙️  I love to code in **Python**.
+- 🗣  **Microsoft Technology Associate (MTA)** in python programming. 
+- 🌱  Learning more about the world of sound and computer vision in AI. 
+- 🎨  I like vector art so trying to be good at it. 
+- ☕️  (Mocha || Latte) && Me 
+- ❤️  In love with Open Source
+- ⚡  Fun fact: I spend 80$ on every new FIFA release. 
+- 📫  How to reach me: **bilalmb1999@gmail.com**
+- 🤔  Pronouns: He / Him
+<br>
 <a href="https://github.com/Muhammad-Bilal-MB">
    <img src="https://komarev.com/ghpvc/?&style=for-the-badge&username=Muhammad-Bilal-MB">
 </a>
+
+<br>
+
+<h3> Languages and Tools </h3>
+<div class="tools" display="flex">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width=40px height=40px/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width=40px height=40px />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width=40px height=40px />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width=40px height=40px/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width=40px height=40px/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width=40px height=40px/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=40px height=40px />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width=40px height=40px/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width=40px height=40px/>
+</div>
+<hr>
+                        
+<img src="https://user-images.githubusercontent.com/69968468/150633827-668e5d7c-bff2-49af-a7a3-e3f6748eaf01.gif" width=100% />
+
+<p align="center">
+  <img width="480px" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Bilal-MB&show_icons=true&theme=tokyonight&bg_color=1F222E" />
+  <img width="480px" src="https://github-readme-streak-stats.herokuapp.com?user=Muhammad-Bilal-MB&theme=gotham&fire=C77800&ring=DD910B&background=1F222E" />
+</p>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=Muhammad-Bilal-MB&theme=react-dark&bg_color=1F222E" />
+
+
+
 
