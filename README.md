@@ -72,6 +72,7 @@ I am living in Attock, Pakistan. Currently pursuing my degree in Bachelors of Co
   <img width="480px" src="https://github-readme-streak-stats.herokuapp.com?user=Muhammad-Bilal-MB&theme=gotham&fire=C77800&ring=DD910B&background=1F222E" />
 </p>
 
+<img src="https://raw.githubusercontent.com/Muhammad-Bilal-MB/Muhammad-Bilal-MB/output/github-contribution-grid-snake.svg" width=100%/>
 <img src="https://activity-graph.herokuapp.com/graph?username=Muhammad-Bilal-MB&theme=react-dark&bg_color=1F222E" />
 
 
