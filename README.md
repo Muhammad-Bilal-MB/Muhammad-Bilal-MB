@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hola! I am <i>Muhammad Bilal</i> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center"> Hola! I am <i>Muhammad Bilal</i> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center"> Being Real, Loving Artificial Intelligence </h3>
 <img width="1401" alt="Github Cover" src="https://user-images.githubusercontent.com/69968468/150587655-2a6960f3-accc-4df3-bede-5ed4384cfc48.png">
 <br>
